@@ -30,7 +30,9 @@ B = np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![Output](./inverseofamatrix.png)
+![inverseofamatrix](https://user-images.githubusercontent.com/118787261/213903981-e9592bdd-140f-4667-83fd-2f6224b79099.png)
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
